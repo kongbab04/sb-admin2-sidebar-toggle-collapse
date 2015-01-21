@@ -1,4 +1,4 @@
-sb-admin2-sidebar-toggle
+sb-admin2-sidebar-toggle-collapse
 ==================
 
 BootstrapのAdmin ThemeであるSB Admin2をを修正してみました。
